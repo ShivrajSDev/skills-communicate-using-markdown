@@ -27,3 +27,8 @@ console.log(myVar);
 // C#
 Console.WriteLine("Hello, World!");
 ```
+
+- [x] Continue completing GitHub Skills course involving Markdown
+- [ ] Work on GitHub Skills course involving GitHub Pages
+- [ ] Continue learning/refreshing knowledge on using Git and GitHub
+- [ ] Expand on skills and portfolio
