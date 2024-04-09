@@ -11,3 +11,19 @@
 ###### This is an `<h6>` header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+// No language referenced for code block
+var myVar = "Hello, world!";
+```
+
+``` javascript
+// JavaScript
+var myVar = "Hello, world!";
+console.log(myVar);
+```
+
+``` c#
+// C#
+Console.WriteLine("Hello, World!");
+```
